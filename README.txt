@@ -1,3 +1,7 @@
+Reused from Project Nayuki. (MIT license)
+https://www.nayuki.io/page/fast-sha2-hashes-in-x86-assembly
+
+
 # How to run
 
 1. make
